@@ -28,7 +28,7 @@ body {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.7;
-  color: #828282;
+  color: #944D31;
   background: #fff;
 }
 
@@ -281,7 +281,7 @@ figure {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -507,7 +507,7 @@ figure {
 
 #fh5co-counter .event-wrap,
 #fh5co-event .event-wrap {
-  border: 2px solid rgba(255, 255, 255, 0.5);
+  border: 2px solid #944D31;
   background: rgba(255, 255, 255, 0.1);
   padding: 30px;
   width: 100%;
@@ -530,7 +530,7 @@ figure {
 #fh5co-event .event-wrap h3 {
   font-size: 30px;
   color: #fff;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-bottom: 1px solid #944D31;
   display: block;
   padding-bottom: 20px;
   /*text-transform: uppercase;*/
@@ -907,14 +907,14 @@ figure {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
 }
 
 .fh5co-social-icons li a {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   color: #F14E95;
   padding-left: 10px;
   padding-right: 10px;
@@ -1439,7 +1439,7 @@ form label {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  display: inline;
   width: 100px;
   height: 100px;
 }
@@ -1868,7 +1868,7 @@ form label {
 
 /* Button 4 */
 .btn-4 {
-  background: #252525;
+  background: #944D31;
   color: #fff;
   border-radius: 10px;
 }

@@ -17,7 +17,7 @@ footer {
 	text-align: center;
 	align-items: center;
 	justify-content: center;
-	background-color: #191919;
+	background-color: #944D31;
 }
 
 footer p {
@@ -198,7 +198,7 @@ footer p {
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	background: #191919;
+	background: #A68270;
 
 }
 
@@ -315,7 +315,7 @@ footer p {
 .file-upload .file-select {
 	display: block;
 	border: 2px solid #dce4ec;
-	color: #252525;
+	color: #944D31;
 	cursor: pointer;
 	height: 40.4px;
 	line-height: 40px;
@@ -340,7 +340,7 @@ footer p {
 }
 
 .file-upload .file-select:hover {
-	border-color: #252525;
+	border-color: #944D31;
 	transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
 	-webkit-transition: all .2s ease-in-out;
@@ -348,7 +348,7 @@ footer p {
 }
 
 .file-upload .file-select:hover .file-select-button {
-	background: #252525;
+	background: #944D31;
 	color: #FFFFFF;
 	transition: all .2s ease-in-out;
 	-moz-transition: all .2s ease-in-out;
@@ -393,7 +393,7 @@ footer p {
 	cursor: default;
 	display: block;
 	border: 2px solid #dce4ec;
-	color: #252525;
+	color: #944D31;
 	cursor: pointer;
 	height: 40px;
 	line-height: 40px;
